@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/2021/11/12/DC-1%20%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B8%97%E9%80%8F/</loc>
+    
+    <lastmod>2021-11-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/11/12/%E6%B5%8B%E8%AF%95/</loc>
+    
+    <lastmod>2021-11-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/11/08/%E5%A5%BD%E6%83%B3%E5%8E%BB%E7%9C%8B%E9%9B%AA/</loc>
+    
+    <lastmod>2021-11-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/playlist/index.html</loc>
+    
+    <lastmod>2021-11-08</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2021-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2021-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2021-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+</urlset>
